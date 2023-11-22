@@ -14,7 +14,7 @@ The platform used is ARDUINO_SAMD_MKRZERO. It can easily be made compatible with
 
 ## Hardware
 
-<img src="https://elektropionir.rs/wp-content/uploads/2022/10/pyranometer-web-768x1024.jpg" width=75% height=75%>
+<img src="https://elektropionir.rs/wp-content/uploads/2023/11/PyranoLogger-web.jpg" width=75% height=75%>
 Components used:
 PV Solar panel
 ADC for reference mini PV panel (Grove)
